@@ -7,3 +7,4 @@ git push -u origin main
 
 
 아니 확인~~ 
+낵 ㅏ추가함 
